@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tinasoft.giv",
+      "sha256_cert_fingerprints": [
+        "C4:AC:3F:64:8E:D6:35:8C:3D:31:1A:17:7A:9C:5B:9F:A2:C4:BC:19:28:A9:D2:35:2B:B7:3C:54:98:2A:DA:3B"
+      ]
+    }
+  }
+]

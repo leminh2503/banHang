@@ -1,0 +1,4 @@
+export default {
+  NOTIFY_CHANGE: "[NOTIFY] NOTIFY_CHANGE",
+  NOTIFY_CLEAR: "[NOTIFY] NOTIFY_CLEAR",
+};

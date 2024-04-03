@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "1665805499.giv.tinasoft.vn", // 9T4EDJ576V.au.com.example.myapp
+        "paths": ["/user_management/:id"]
+      }
+    ]
+  }
+}
